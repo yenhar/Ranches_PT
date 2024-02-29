@@ -1,0 +1,41 @@
+body {
+    background-color: white; width: 100%;
+    
+}
+.border{    
+    border-top: 2px dashed blue;   
+    border-bottom: 4px solid red;   
+    border-left: 2px dashed green;  
+    border-right: 3px solid yellow; 
+    margin: 10px; 
+    padding: 2rem;
+    width: 8rem;
+}
+
+
+
+
+.flex {
+    display: flex;
+}
+
+.justify-center {
+    justify-content: center;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.title{
+    text-align: center;
+    font-weight: bold;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  
